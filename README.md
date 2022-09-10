@@ -1,4 +1,4 @@
 # SPARTALIEN's Discord Server
 
-- [About](./text/intro.md)
+- [About](./server/text/intro.md)
 - [Join](https://discord.gg/wy7HbvKvG8)
