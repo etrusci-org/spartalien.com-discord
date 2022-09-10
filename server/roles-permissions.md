@@ -17,12 +17,10 @@ Note that by default, `@everyone` has no permissions.
 
 ## `@core`
 
-- Special role just given to special people.
 - Inherit permissions from `@everyone`.
 
 ## `@admin`
 
-- Special role just given to myself.
 - Inherit permissions from `@everyone`.
 
 ---
