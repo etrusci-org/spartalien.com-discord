@@ -5,3 +5,4 @@
 - Rules Channel: `#intro`
 - System Messages Channel: `#system`
 - Community Update Channel: `#system`
+- Permanent Invite Link: <https://discord.gg/wy7HbvKvG8>
