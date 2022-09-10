@@ -11,10 +11,8 @@
 - `#general`: Whatever is on your mind.
 - `#share-your-art`: Post links to your creative work.
 - `#share-art`: Post links to art you love (music, videos, images, etc).
-<!-- - `#want-to-collab`: Find somebody to work with. -->
-<!-- - `#conference-1`: Voice/Video #1-->
-<!-- - `#conference-2`: Voice/Video #2-->
-<!-- - `#conference-3`: Voice/Video #3-->
+- `#conference-1`: Voice/Video #1.
+- `#conference-2`: Voice/Video #2.
 
 ## *Category* INSIDER
 
