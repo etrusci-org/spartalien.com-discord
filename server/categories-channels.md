@@ -6,7 +6,7 @@
 - `#updates`: Updates and changes to this server.
 - `#system`: System messages for admins and mods
 
-## *Category* OURSPACE
+## *Category* `OURSPACE`
 
 - `#introduce-yourself`: If you want, say hi and and tell us a bit about you.
 - `#general`: Whatever is on your mind.
@@ -15,7 +15,7 @@
 - `#conference-1`: Voice/Video #1.
 - `#conference-2`: Voice/Video #2.
 
-## *Category* INSIDER
+## *Category* `INSIDER`
 
 - `#raw`: Secret work in progress previews for the super curious. Do not leak this stuff outside of this server!
 - `#free`: Free stuff. First come, first served.
