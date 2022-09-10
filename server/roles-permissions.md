@@ -4,16 +4,16 @@ Note that by default, `@everyone` has no permissions.
 
 ## `@everyone`
 
-| Status    | Permission               |
-|-----------|--------------------------|
-| Enabled   | View Channels            |
-| Enabled   | Embed Links              |
-| Enabled   | Add Reactions            |
-| Enabled   | Use External Emoji       |
-| Enabled   | Use External Sticker     |
-| Enabled   | Read Message History     |
-| Enabled   | Use Application Commands |
-| Enabled   | Use Voice Activity       |
+| Status  | Permission               |
+|---------|--------------------------|
+| Enabled | View Channels            |
+| Enabled | Embed Links              |
+| Enabled | Add Reactions            |
+| Enabled | Use External Emoji       |
+| Enabled | Use External Sticker     |
+| Enabled | Read Message History     |
+| Enabled | Use Application Commands |
+| Enabled | Use Voice Activity       |
 
 ## `@core`
 
@@ -27,9 +27,9 @@ Note that by default, `@everyone` has no permissions.
 
 ## `OURSPACE` Category Overrides
 
-| Status    | Permission    | Role(s)     |
-|-----------|---------------|-------------|
-| Enabled   | Send Messages | `@everyone` |
-| Enabled   | Connect       | `@everyone` |
-| Enabled   | Speak         | `@everyone` |
-| Enabled   | Video         | `@everyone` |
+| Status  | Permission    | Role(s)     |
+|---------|---------------|-------------|
+| Enabled | Send Messages | `@everyone` |
+| Enabled | Connect       | `@everyone` |
+| Enabled | Speak         | `@everyone` |
+| Enabled | Video         | `@everyone` |
