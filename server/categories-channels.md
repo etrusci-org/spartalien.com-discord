@@ -8,6 +8,7 @@
 
 ## *Category* OURSPACE
 
+- `#introduce-yourself`: If you want, say hi and and tell us a bit about you.
 - `#general`: Whatever is on your mind.
 - `#share-your-art`: Post links to your creative work.
 - `#share-art`: Post links to art you love (music, videos, images, etc).
