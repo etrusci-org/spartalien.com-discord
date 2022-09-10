@@ -9,6 +9,7 @@
 - Use External Sticker
 - Read Message History
 - Use Application Commands
+- Use Voice Activity
 
 ## `@core`
 
@@ -27,3 +28,6 @@ Inherit permissions from @everyone.
 For `@everyone`:
 
 - Send Messages
+- Connect
+- Speak
+- Video
