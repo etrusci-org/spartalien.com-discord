@@ -3,8 +3,11 @@
 **W E L C O M E !**
 
 This server is mainly about music, arts, and creativity.
-It's meant to be a place where we can chill-out and come up with new ideas.
-There's also an insider category for fans of my work.
+It's meant to be a place where we can chill-out, share our passions, and come up with new ideas.
+There's also an insider category with goodies for fans of my work.
+
+Most uf the server's core crew understand/speak english and german. If you speak another language, we'll just use a translator :wink:
+
 Enjoy your stay!
 
 Yours truly,
