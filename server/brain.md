@@ -10,19 +10,22 @@ Always preview in Discord first to make sure Markdown is parsed as expected.
 
 ---
 
-For better readability, we start static texts with...
-...a floppy disk emoji followed by a space...
+For better readability, ...
+
+... we start static texts with a floppy disk emoji followed by a space, ...
 ```text
 :floppy_disk:
 
-<text_here>
+<text_starts_here>
 ```
 
-...and end them with a space followed by a dot.
+... and end them with a space followed by a dot.
 ```text
-<text_here>
+<text_ends_here>
 
 .
 ```
+
+See files in [/text](./text) for examples.
 
 ---
