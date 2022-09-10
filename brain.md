@@ -21,9 +21,11 @@ For better readability, ...
 
 ... and end them with a space followed by a dot.
 ```text
-<text_starts_here>
+<text_ends_here>
 
 .
 ```
+
+See files in [/text](./text) for examples.
 
 ---
