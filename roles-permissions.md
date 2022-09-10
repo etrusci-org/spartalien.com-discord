@@ -10,13 +10,15 @@
 - Read Message History
 - Use Application Commands
 
-## `@vip`
+## `@core`
 
-Special role just given to special people. Inherit permissions from @everyone.
+Special role just given to special people.
+Inherit permissions from @everyone.
 
 ## `@admin`
 
-Special role just given to myself. Inherit permissions from @everyone.
+Special role just given to myself.
+Inherit permissions from @everyone.
 
 ---
 
