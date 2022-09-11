@@ -17,11 +17,19 @@ Note that by default, `@everyone` has no permissions.
 
 ## `@core`
 
-- Inherit permissions from `@everyone`.
+Inherit permissions from `@everyone`.
 
 ## `@admin`
 
-- Inherit permissions from `@everyone`.
+Inherit permissions from `@everyone`.
+
+## `@bot-data`
+
+This role is managed by the `Data [bot]` integration and cannot be manually assigned  to members.
+
+| Status  | Permission    |
+|---------|---------------|
+| Enabled | Send Messages |
 
 ---
 
