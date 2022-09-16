@@ -17,5 +17,5 @@
 
 ## *Category* `INSIDER`
 
+- `#goodies`: Download/discount codes mostly, and maybe exclusive stuff in the future? Please add a reaction if you use a code.
 - `#raw`: Secret work in progress previews for the super curious. Do not leak this stuff outside of this server!
-- `#free`: Free stuff. First come, first served.
