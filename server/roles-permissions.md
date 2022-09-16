@@ -41,3 +41,11 @@ This role is managed by the `Data [bot]` integration and cannot be manually assi
 | Enabled | Connect       | `@everyone` |
 | Enabled | Speak         | `@everyone` |
 | Enabled | Video         | `@everyone` |
+
+---
+
+## `#live-now` Channel Overrides
+
+| Status   | Permission  | Role(s)     |
+|----------|-------------|-------------|
+| Disabled | Embed Links | `@everyone` |
