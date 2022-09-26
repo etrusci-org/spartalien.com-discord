@@ -13,8 +13,8 @@
 - `#share-art`: Post links to art you love (music, videos, images, etc).
 - `#live-now`: Going live? Post your stream link!
 - `#introduce-yourself`: If you want, say hi and and tell us a bit about you.
-- `#conference-1`: Voice/Video #1.
-- `#conference-2`: Voice/Video #2.
+- `#voice-video-1`: Voice/Video #1.
+- `#voice-video-2`: Voice/Video #2.
 
 ## *Category* `INSIDER`
 
